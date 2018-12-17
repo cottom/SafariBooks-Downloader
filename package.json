@@ -8,7 +8,7 @@
     "debug:download": "./index  -"
   },
   "bin": {
-    "safaribooks-downloader": "./index.js"
+    "sbd": "./index.js"
   },
   "author": "Nico Hänggi",
   "license": "MIT",
