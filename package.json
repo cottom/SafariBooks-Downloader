@@ -1,6 +1,6 @@
 {
-  "name": "safaribooks-downloader",
-  "version": "1.0.0",
+  "name": "safarid",
+  "version": "1.0.1",
   "description": "a SafariBooksOnline-Downloader and .epub creator",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "debug:download": "./index  -"
   },
   "bin": {
-    "sbd": "./index.js"
+    "sbd": "./index.js",
+    "safarid": "./index.js"
   },
   "author": "Nico Hänggi",
   "license": "MIT",
