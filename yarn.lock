@@ -464,10 +464,10 @@ electron-download@^3.0.1:
     semver "^5.3.0"
     sumchecker "^1.2.0"
 
-electron@^1.8.4:
-  version "1.8.8"
-  resolved "https://registry.npmjs.org/electron/-/electron-1.8.8.tgz#a90cddb075291f49576993e6f5c8bb4439301cae"
-  integrity sha512-1f9zJehcTTGjrkb06o6ds+gsRq6SYhZJyxOk6zIWjRH8hVy03y/RzUDELzNas71f5vcvXmfGVvyjeEsadDI8tg==
+electron@^2.0.18:
+  version "2.0.18"
+  resolved "https://registry.npm.taobao.org/electron/download/electron-2.0.18.tgz#52f1b248c3cc013b5a870094de3b6ba5de313a0f"
+  integrity sha1-UvGySMPMATtahwCU3jtrpd4xOg8=
   dependencies:
     "@types/node" "^8.0.24"
     electron-download "^3.0.1"
@@ -1081,15 +1081,15 @@ mz@^2.3.1:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-nightmare@^3.0.0:
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/nightmare/-/nightmare-3.0.1.tgz#a474761b2f0e08c2b75af24a66c201668e5c53d3"
-  integrity sha512-WptvyPfp5mHRRYHzt6+4xazaR9cc437BuLJI6cLFnqwwgxgdtsFImfBVDeTUCPAeLrkp5VryX5jlw7Wwg+UnFQ==
+nightmare@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.npm.taobao.org/nightmare/download/nightmare-3.0.2.tgz#fb4613259e7b9c05303ae9469e77b1b901351259"
+  integrity sha1-+0YTJZ57nAUwOulGnnexuQE1Elk=
   dependencies:
     debug "^2.2.0"
     deep-defaults "^1.0.3"
     defaults "^1.0.2"
-    electron "^1.8.4"
+    electron "^2.0.18"
     enqueue "^1.0.2"
     function-source "^0.1.0"
     jsesc "^0.5.0"
